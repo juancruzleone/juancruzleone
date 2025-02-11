@@ -15,13 +15,5 @@ Soy Desarrollador Frontend con conocimientos en backend. Tengo 21 años, soy de 
 # 🛠️ Software y herramientas:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 Estadísticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=JuanCruzLeone&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JuanCruzLeone&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCruzLeone&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Repositorios más contribuidos
-![](https://github-contributor-stats.vercel.app/api?username=JuanCruzLeone&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=JuanCruzLeone&icon=0&color=0)](https://visitcount.itsvg.in)
