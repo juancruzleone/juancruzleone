@@ -2,11 +2,16 @@
 
 # 💫 Sobre mí:
 
-Soy Desarrollador Frontend con conocimientos en backend. Tengo 21 años, soy de Argentina y vivo en la provincia de Buenos Aires. Estudié Diseño y Programación Web en el Instituto Da Vinci y me gusta crear interfaces intuitivas y bien estructuradas. Me enfoco en escribir código limpio, optimizar el rendimiento y mejorar la experiencia del usuario. Actualmente estoy aprendiendo TypeScript y Rust. Podés ver mi trabajo en mi portfolio: [juancruzleone.dev](https://juancruzleone.dev).
+Soy Desarrollador Frontend con conocimientos en backend. Tengo 21 años, soy de Argentina y vivo en la provincia de Buenos Aires. Estudié Diseño y Programación Web en el Instituto Da Vinci y me gusta crear interfaces intuitivas y bien estructuradas. Me enfoco en escribir código limpio, optimizar el rendimiento y mejorar la experiencia del usuario. Actualmente estoy aprendiendo TypeScript y Rust.
 
+💼 **Portfolio:** [juancruzleone.dev](https://juancruzleone.dev)  
 📫 **Contacto:** [juancruzleone@outlook.com](mailto:juancruzleone@outlook.com)
 
-🔭 **Actualmente estoy trabajando en:**  <br>Desarrollar interfaces de usuario modernas y optimizadas.<br><br>👯 **Busco colaborar en:**  <br>Proyectos de Frontend, Backend o Fullstack.<br><br>🌱 **Actualmente estoy aprendiendo:**  <br>TypeScript y Rust.<br><br>💬 **Pregúntame sobre:**  <br>HTML, CSS, JavaScript, React, Vue, Astro, Tailwind, Node.js, Express, MongoDB, PHP, Laravel, MySQL, Firebase y desarrollo web en general.<br><br>⚡ **Dato curioso:**  <br>Me encanta el diseño gráfico y los videojuegos.
+🔭 **Actualmente estoy trabajando en:**  <br>Desarrollar interfaces de usuario modernas y optimizadas.<br><br>
+👯 **Busco colaborar en:**  <br>Proyectos de Frontend, Backend o Fullstack.<br><br>
+🌱 **Actualmente estoy aprendiendo:**  <br>TypeScript y Rust.<br><br>
+💬 **Pregúntame sobre:**  <br>HTML, CSS, JavaScript, React, Vue, Astro, Tailwind, Node.js, Express, MongoDB, PHP, Laravel, MySQL, Firebase y desarrollo web en general.<br><br>
+⚡ **Dato curioso:**  <br>Me encanta el diseño gráfico y los videojuegos.
 
 ## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cruz-leone/)
