@@ -11,7 +11,6 @@ Soy Desarrollador Frontend con conocimientos en backend. Tengo 21 años, soy de 
 👯 **Busco colaborar en:**  <br>Proyectos de Frontend, Backend o Fullstack.<br><br>
 🌱 **Actualmente estoy aprendiendo:**  <br>TypeScript y Rust.<br><br>
 💬 **Pregúntame sobre:**  <br>HTML, CSS, JavaScript, React, Vue, Astro, Tailwind, Node.js, Express, MongoDB, PHP, Laravel, MySQL, Firebase y desarrollo web en general.<br><br>
-⚡ **Dato curioso:**  <br>Me encanta el diseño gráfico y los videojuegos.
 
 ## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cruz-leone/)
